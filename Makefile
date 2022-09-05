@@ -4,7 +4,7 @@ HUGO_BIN=hugo
 .PHONY: build sync dev help
 .DEFAULT_GOAL := help
 
-DN=west-side-volley.net
+DN=westsidevolley.net
 
 define CHECKLIST
 # grammarly

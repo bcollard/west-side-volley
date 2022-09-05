@@ -1,4 +1,4 @@
-baseURL = "https://west-side-volley.net"
+baseURL = "https://westsidevolley.net"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "fr"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "West Side Volley - pratique du volleyball loisir adulte"
+title = "West Side Volley - pratique du volleyball à Pibrac"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -17,7 +17,7 @@ title = "West Side Volley - pratique du volleyball loisir adulte"
     copyright = "No copyright"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Essayer la pratique du volleyball en loisir, autour de Pibrac, Léguevin, La Salvetat-Saint-Gilles, Brax, Cornebarrieu, Plaisance-du-Touch, Tournefeuille"
+    description = "Essayer la pratique du volleyball adulte en loisir, autour de Pibrac, Léguevin, La Salvetat-Saint-Gilles, Brax, Cornebarrieu, Plaisance-du-Touch, Tournefeuille"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -31,7 +31,7 @@ title = "West Side Volley - pratique du volleyball loisir adulte"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "West Side Volley - pratique libre du volleyball à l'ouest de Toulouse"
+    title = "West Side Volley - pratique libre du volleyball à Pibrac"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
