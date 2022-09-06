@@ -15,7 +15,7 @@ Pour l'année 2022, les horaires seront les suivantes:
 
 Les séances se dérouleront au gymnase de la castanette, à Pibrac
 
-![Nice picture to make you pay me ;-)](images/plan.png)
+![Nice picture to make you pay me ;-)](images/plan.webp)
 
 Lien Google Maps: https://goo.gl/maps/uQRRL3h8dNAm6VLb8
 
@@ -26,5 +26,6 @@ Lien Google Maps: https://goo.gl/maps/uQRRL3h8dNAm6VLb8
 Deux tarifs possibles:
 
 - Tarif annuel : **45 euros**
+/  - ou -
 - Tarif à la séance : **4 euros** (sous réserve de place disponible)
 

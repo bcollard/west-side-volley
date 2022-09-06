@@ -7,13 +7,11 @@ Le West Side Volley accueille tous les joueurs agés d'au moins 16 ans pour la p
 
 Nouveau club créé par d'anciens joueurs issus de diverses communes, telles que Pibrac, Léguevin, Plaisance, et d'autres, il compte des membres de tout âge et de tous niveaux ! 
 
-Les séances de volley sont bienveillantes, jouées dans la bonne humeur, et ne sont pas destinées à se préparer à la compétition.
-
-_"Pas de pression, sauf en 3ème mi-temps !"_
+Les séances de volley sont pratiquées dans une ambiance détendue, conviviale et bienveillante. Elles ne sont pas destinées à se préparer à la compétition.
 
 Les entrainements sont néanmoins cadrés et des matchs amicaux sont joués à chaque fois.
 
-![volley](images/player.jpg)
+![volley](images/player.webp)
 
 ## Déroulement d'une séance
 
@@ -22,4 +20,6 @@ Généralement, les 30 premières minutes sont dédiées à un échauffement et 
 - phases d'attaque
 - services
 
-![court](images/recep.jpg)
+![court](images/recep.webp)
+
+Ensuite, nous jouons des matchs amicaux, toujours dans le respect de tous.
