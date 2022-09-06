@@ -15,7 +15,7 @@ Pour l'année 2022, les horaires seront les suivantes:
 
 Les séances se dérouleront au gymnase de la castanette, à Pibrac
 
-![Nice picture to make you pay me ;-)](images/plan.webp)
+![Plan gymnase Pibrac](images/plan.webp)
 
 Lien Google Maps: https://goo.gl/maps/uQRRL3h8dNAm6VLb8
 

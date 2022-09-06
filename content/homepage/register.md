@@ -13,4 +13,4 @@ Il vous faudra également un certificat médical, une photo d'identité et venir
 
 Il est possible de faire une ou plusieurs séance(s) d'essai avant de passer à l'inscription annuelle. La ou les séances d'essai ne seront pas déduites de l'abonnement annuel.
 
-![court](images/net.webp)
+![filet](images/net.webp)

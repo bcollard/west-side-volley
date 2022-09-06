@@ -9,3 +9,6 @@ header_menu: true
 {{<icon class="fa fa-phone">}}&nbsp;[06 14 50 46 86](tel:+33614504686)
 
 Au plaisir de faire des échanges !
+
+
+![West Side Volley](images/logo.webp)
