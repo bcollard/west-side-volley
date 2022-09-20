@@ -37,9 +37,6 @@ sync: build gcloud ## build and push blog to GCS
 	gsutil -m rsync -d -r ./public/ gs://${DN}
 
 setcache: ## set the cache-control on static resources in the bucket
-	gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://${DN}/\*.webp
-	gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://${DN}/\*.jpg
-	gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://${DN}/\*.png
 	gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://${DN}/\*/\*.css
 	gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://${DN}/\*/\*.jpg
 	gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://${DN}/\*/\*.webp
