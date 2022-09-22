@@ -9,7 +9,7 @@ Pour l'année 2022, les horaires seront les suivants:
 - lundi à 20h30
 - samedi à 16h30
 
-> **NEWS** - Les séances du samedi ont commencé avec succès le 17/09/2022 avec de nombreux joueurs présents ! N'hésitez pas à venir effectuer une séance d'essai les prochains samedis. Ouverture du créneau du lundi soir dans quelques semaines.
+> **NEWS** - Les séances du samedi ont commencé avec succès le 17/09/2022 avec de nombreux joueurs présents ! N'hésitez pas à venir effectuer une séance d'essai les prochains samedis. Ouverture du créneau du lundi prochainement.
 
 
 ---
