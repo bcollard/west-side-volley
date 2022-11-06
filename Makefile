@@ -24,8 +24,9 @@ help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 
 gcloud: ## use my personal GCP account
-	gcloud config set account baptiste.collard@gmail.com
-	gcloud config set project personal-218506
+	gcloud config configurations activate baptiste
+	# gcloud config set account baptiste.collard@gmail.com
+	# gcloud config set project personal-218506
 
 build: ## just build the blog with the 'hugo' command
 	$(HUGO_BIN) --gc
