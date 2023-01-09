@@ -25,8 +25,7 @@ help:
 
 gcloud: ## use my personal GCP account
 	gcloud config configurations activate baptiste
-	# gcloud config set account baptiste.collard@gmail.com
-	# gcloud config set project personal-218506
+	gcloud auth login
 
 build: ## just build the blog with the 'hugo' command
 	$(HUGO_BIN) --gc

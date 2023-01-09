@@ -6,11 +6,13 @@ header_menu: true
 
 Pour l'année 2022, les horaires seront les suivants:
 
-- lundi à 20h30 -- _la salle du lundi est encore en travaux, pas de séances pour le moment (MAJ. 6 novembre 2022)_
+- lundi à 20h30 -- _la salle du lundi est encore en travaux, pas de séances pour le moment (MAJ. 9 janvier 2023)_
 - samedi à 16h30
 
-> **NEWS** - Les séances du samedi ont commencé avec succès le 17/09/2022 avec de nombreux joueurs présents ! N'hésitez pas à venir effectuer une séance d'essai les prochains samedis. Ouverture du créneau du lundi prochainement.
 
+**Prochaines séances en 2023 :**
+- le samedi à 16h30 : 14/01, 21/01, 28/01, 04/02, 11/02, 18/02/ et 25/02
+- le vendredi à 20h30 : 27/01, 17/02 et 24/02
 
 ---
 
