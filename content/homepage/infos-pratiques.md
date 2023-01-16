@@ -34,3 +34,4 @@ Deux tarifs possibles:
 /  - ou -
 - Tarif à la séance : **4 euros** (sous réserve de place disponible)
 
+<!-- test baptiste -->
