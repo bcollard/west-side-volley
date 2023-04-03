@@ -29,5 +29,3 @@ Plusieurs tarifs possibles:
 - Tarif annuel : **45 euros**
 - Tarif à la séance : **4 euros** (sous réserve de place disponible)
 - Tarif mi-saison : **25 euros** (valable à partir du mois de Mars)
-
-<!-- test baptiste -->
