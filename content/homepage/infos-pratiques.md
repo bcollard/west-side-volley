@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-Pour l'année 2022, les horaires seront les suivants:
+Pour la saison 2022-2023, les horaires seront les suivants:
 
 - lundi à 20h30
 - samedi à 16h30
