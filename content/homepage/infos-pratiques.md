@@ -14,7 +14,7 @@ Pour la saison 2022-2023, les horaires seront les suivants:
 
 ## Nous trouver
 
-Les séances se dérouleront au gymnase de la castanette, à Pibrac
+Les séances se dérouleront au gymnase de la castanette, à Pibrac - et parfois au petit gymnase annexe (salle d'escalade)
 
 ![Plan gymnase Pibrac](images/plan.webp)
 
