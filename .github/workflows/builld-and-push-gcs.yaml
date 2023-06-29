@@ -65,13 +65,13 @@ jobs:
       - name: Set cache control headers on assets
         shell: bash
         run: |
-          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.webp
-          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.jpg
-          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.png
-          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.css
-          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.jpg
-          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.webp
-          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.png
-          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.js 
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.webp || true
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.jpg || true
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.png || true
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.css || true
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.jpg || true
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.webp || true
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.png || true
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.js || true
 
       
