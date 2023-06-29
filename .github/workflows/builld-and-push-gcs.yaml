@@ -60,18 +60,18 @@ jobs:
         run: hugo --gc
 
       - name: Push to GCS
-        run: gsutil -m rsync -r -d public gs://beta.westsidevolley.net
+        run: gsutil -m rsync -r -d public gs://westsidevolley.net
 
-      # - name: Set cache control headers on assets
-      #   shell: bash
-      #   run: |
-      #     gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.webp
-      #     gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.jpg
-      #     gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.png
-      #     gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.css
-      #     gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.jpg
-      #     gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.webp
-      #     gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.png
-      #     gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.js 
+      - name: Set cache control headers on assets
+        shell: bash
+        run: |
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.webp
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.jpg
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*.png
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.css
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.jpg
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.webp
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.png
+          gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://westsidevolley.net/\*/\*.js 
 
       
