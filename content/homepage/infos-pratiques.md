@@ -6,15 +6,15 @@ header_menu: true
 
 Pour la saison 2023-2024, les horaires seront les suivants:
 
-- lundi à 20h30 (FSGT)
-- samedi à 16h30
+- lundi à 20h30 (Priorité FSGT)
+- samedi à 16h30 (Loisir)
 
 
 ---
 
 ## Nous trouver
 
-Les séances se dérouleront au gymnase de la castanette, à Pibrac - et parfois au petit gymnase annexe (salle d'escalade)
+Les séances se dérouleront au petit gymnase de la Castanette (Annexe du grand gymnase) le lundi et au grand gymnase de la Castanette le samedi, à Pibrac.
 
 ![Plan gymnase Pibrac](images/plan.webp)
 
