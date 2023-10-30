@@ -15,7 +15,7 @@ Les entrainements sont néanmoins cadrés et des matchs amicaux sont joués à c
 
 ## Déroulement d'une séance
 
-Généralement, les 30 premières minutes sont dédiées à un échauffement et à des mises en situation:
+Généralement, la 1ère heure est dédiée à un échauffement et à des mises en situation:
 - passes diverses
 - phases d'attaque
 - services
