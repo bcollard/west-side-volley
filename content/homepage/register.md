@@ -7,6 +7,8 @@ weight: 3
 header_menu: true
 ---
 
+**Attention :** Le club est complet, nous n'acceptons plus de nouveaux adhérents pour le moment !
+
 Pour vous inscrire, rien de plus simple, téléchargez la [fiche d'inscription](/dossier.pdf) et déposez là lors de votre première séance.
 
 Il vous faudra également un certificat médical, une photo d'identité et venir avec votre cotisation.
