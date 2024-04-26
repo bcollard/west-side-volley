@@ -11,4 +11,4 @@ header_menu: true
 Au plaisir de faire des échanges !
 
 
-![West Side Volley](images/logo.webp)
+![West Side Volley](images/logo.jpg)
