@@ -16,7 +16,7 @@ Les entrainements sont néanmoins cadrés et des matchs amicaux sont joués à c
 ## Déroulement d'une séance
 
 Généralement, la 1ère heure est dédiée à un échauffement et à des mises en situation:
-- passes diverses
+- Exercices diverses
 - phases d'attaque
 - services
 
