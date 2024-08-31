@@ -28,7 +28,7 @@ Lien Google Maps: https://goo.gl/maps/uQRRL3h8dNAm6VLb8
 Plusieurs tarifs possibles:
 
 - Tarif forfaitaire annuel (quel que soit le nombre de séances) : **45 euros**
-- Option compétition FSGT (à payer en supplément du tarif forfaitaire annuel) : **+45 euros**
+- Option compétition FSGT (à payer en supplément du tarif forfaitaire annuel) : **+55 euros**
 - Tarif à la séance, à payer en début de séance : **4 euros** (sous réserve de place disponible)
 - Tarif semi-annuel (quel que soit le nombre de séances à partir du 1er mars) : **25 euros**
 
