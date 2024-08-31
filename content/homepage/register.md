@@ -10,7 +10,7 @@ header_menu: true
 Pour vous inscrire, rien de plus simple, téléchargez la [fiche d'inscription](/Dossier_de_candidature.pdf) et la [notice individuelle](/Notice_individuelle.pdf) 
 
 Si vous êtes majeur, il vous faut également compléter les documents suivants:
-- [attestation et questionnaire santé](/Attestation_et_questionnaire_Sante_adherent_majeur.pdf)
+- [Attestation et questionnaire santé](/Attestation_et_questionnaire_Sante_adherent_majeur.pdf)
 
 Si vous inscrivez votre enfant, mineur, il faut compléter les documents suivants:
 - [Questionnaire de santé - Mineur](/Questionnaire_sante_mineurs.pdf) 
