@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-Pour la saison 2023-2024, les horaires seront les suivants:
+Les horaires sont les suivants:
 
 - lundi à 20h30 (Priorité FSGT)
 - samedi à 16h30 (Loisir)
