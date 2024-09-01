@@ -7,7 +7,7 @@ weight: 3
 header_menu: true
 ---
 
-Pour vous inscrire, rien de plus simple, téléchargez la [fiche d'inscription](/Dossier_de_candidature.pdf) et la [notice individuelle](/Notice_individuelle.pdf) 
+Pour vous inscrire, rien de plus simple, téléchargez la [fiche d'inscription](/Dossier_de_candidature.docx) et la [notice individuelle](/Notice_individuelle.pdf) 
 
 Si vous êtes majeur, il vous faut également compléter les documents suivants:
 - [Attestation et questionnaire santé](/Attestation_et_questionnaire_Sante_adherent_majeur.pdf)
