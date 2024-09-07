@@ -6,9 +6,10 @@ header_menu: true
 
 Les horaires sont les suivants:
 
-- lundi à 20h30 (Priorité FSGT)
-- samedi à 16h30 (Loisir)
-- samedi à 19h (Loisir)
+- lundi à 20h30 (Loisir - 14 places)
+- Mercredi à 21h (Priorité FSGT - 26 places)
+- samedi à 16h30 (Loisir - 26 places)
+- samedi à 19h (Priorité FSGT - 26 places)
 
 
 ---
