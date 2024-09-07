@@ -16,7 +16,7 @@ Les horaires sont les suivants:
 
 ## Nous trouver
 
-Les séances se dérouleront au petit gymnase de la Castanette (Annexe du grand gymnase) le lundi et au grand gymnase de la Castanette le samedi, à Pibrac.
+Les séances se dérouleront au petit gymnase de la Castanette (Annexe du grand gymnase) le lundi et au grand gymnase de la Castanette le mercredi et le samedi, à Pibrac.
 
 ![Plan gymnase Pibrac](images/plan.webp)
 
