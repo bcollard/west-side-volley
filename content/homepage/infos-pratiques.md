@@ -4,36 +4,28 @@ weight: 2
 header_menu: true
 ---
 
+## Planning des séances
+
 Les horaires sont les suivants:
 
-- lundi à 20h30 (Loisir - 14 places)
-- Mercredi à 21h (Priorité FSGT - 26 places)
-- samedi à 16h30 (Loisir - 26 places)
-- samedi à 19h (Priorité FSGT - 26 places)
+- Lundi : 20h30 – 23h (Loisir, 14 places)
+- Mercredi : 21h – 23h30 (Priorité FSGT, 26 places)
+- Samedi : 16h30 – 19h (Loisir, 26 places)
+- Samedi : 19h – 21h30 (Priorité FSGT, 26 places)
 
+Les séances de loisirs sont ouvertes à tous, tandis que les créneaux FSGT sont plus orientés vers la compétition, avec des entraînements plus poussés et des
 
----
-
-## Nous trouver
-
-Les séances se dérouleront au petit gymnase de la Castanette (Annexe du grand gymnase) le lundi et au grand gymnase de la Castanette le mercredi et le samedi, à Pibrac.
-
-![Plan gymnase Pibrac](images/plan.webp)
-
-Lien Google Maps: https://goo.gl/maps/uQRRL3h8dNAm6VLb8
-
----
+matchs.
 
 ## Tarifs
 
-Plusieurs tarifs possibles:
-
-- Tarif forfaitaire annuel (quel que soit le nombre de séances) : **45 euros**
-- Option compétition FSGT (à payer en supplément du tarif forfaitaire annuel) : **+55 euros**
+- Forfait annuel (quel que soit le nombre de séances) : **50 euros**
+- Forfait annuel FSGT (forfait annuel + forfait FSGT) : **+50 euros**
 - Tarif à la séance, à payer en début de séance : **4 euros** (sous réserve de place disponible)
-- Tarif semi-annuel (quel que soit le nombre de séances à partir du 1er mars) : **25 euros**
+<!-- Tarif semi-annuel (quel que soit le nombre de séances à partir du 1er mars) : **25 euros** -->
 
-Réduction pour l’adhésion d’un membre de la famille d’une personne déjà inscrite (concubin·e, père, mère, frère, soeur, enfant, petit-enfant) :
-- Tarif forfaitaire annuel (quel que soit le nombre de séances) : **30 euros**
+Réduction famille (pour l’adhésion d’un membre de la famille d’une personne déjà inscrite/concubin) :
+
+- Forfait annuel réduis (quel que soit le nombre de séances) : **35 euros**
+- Forfait annuel FSGT (forfait annuel réduis + forfait FSGT) : **+50 euros**
 - Tarif à la séance, à payer en début de séance : **3 euros**
-

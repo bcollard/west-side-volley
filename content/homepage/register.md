@@ -1,5 +1,5 @@
 ---
-title: 'Inscription'
+title: "Inscription"
 # The "weight" will determine where this section appears on the "homepage".
 # A bigger weight will place the content more towards the bottom of the page.
 # It's like gravity ;-).
@@ -7,20 +7,13 @@ weight: 3
 header_menu: true
 ---
 
-Pour vous inscrire, rien de plus simple, téléchargez la [fiche d'inscription](/Dossier_de_candidature.docx) et la [notice individuelle](/Notice_individuelle.pdf) 
+## Adhésion
 
-Si vous êtes majeur, il vous faut également compléter les documents suivants:
-- [Attestation et questionnaire santé](/Attestation_et_questionnaire_Sante_adherent_majeur.pdf)
+Les adhésions démarreront début septembre. Mais vous pouvez d'ores et déjà réservez vos séances d'essai juste [ici](https://www.helloasso.com/associations/west-side-volley/evenements/seance-d-essai)
 
-Si vous inscrivez votre enfant, mineur, il faut compléter les documents suivants:
-- [Questionnaire de santé - Mineur](/Questionnaire_sante_mineurs.pdf) 
-- [Attestation de santé - Mineur](/Attestation_sante_mineurs.pdf) 
-- [Autorisation de sortie](/Autorisation_de_sortie.docx) 
+<!--
+C'est simple ! Téléchargez les documents, remplissez-les et apportez-les lors de votre première séance.
+Nous sommes impatients de vous rencontrer et de vous accueillir dans notre équipe.
+ [Lien vers le site Hello Assos](https://www.helloasso.com/associations/west-side-volley/adhesions/adhesion-2025-2026-westsidevolley) -->
 
-Ces documents seront à nous apporter lors de votre première séance.
-
-Il faudra également apporter une photo d'identité, votre cotisation et possiblement un certificat médical selon vos réponses au questionnaire de santé.
-
-Il est possible de faire une ou plusieurs séance(s) d'essai avant de passer à l'inscription annuelle. La ou les séances d'essai ne seront pas déduites de l'abonnement annuel.
-
-![filet](images/affiche.webp)
+<!-- ![filet](images/affiche.webp) -->

@@ -3,23 +3,30 @@ title: "Bienvenue"
 weight: 1
 ---
 
-Le West Side Volley accueille tous les joueurs agés d'au moins 15 ans pour la pratique du volleyball en loisir, à Pibrac (31).
+## Rejoignez le West Side Volley !
 
-Nouveau club créé par d'anciens joueurs issus de diverses communes, telles que Pibrac, Léguevin, Plaisance, et d'autres, il compte des membres de tout âge et de tout niveau ! 
+Bienvenue au West Side Volley, un club de volleyball dynamique situé à Pibrac (31).
 
-Les séances de volley sont pratiquées dans une ambiance détendue, conviviale et bienveillante. Elles ne sont pas destinées à se préparer à la compétition.
+Ouvert à toutes et à tous dès 15 ans, nous vous invitons à découvrir le plaisir du volley, que vous soyez débutant ou joueur expérimenté.
 
-Les entrainements sont néanmoins cadrés et des matchs amicaux sont joués à chaque fois.
+Notre objectif : partager des moments de sport et de convivialité, sans pression, mais toujours avec sérieux et bonne humeur !
 
 ![volley](images/player.webp)
 
-## Déroulement d'une séance
+## Nos Séances : Sport, Fun et Partage !
 
-Généralement, la 1ère heure est dédiée à un échauffement et à des mises en situation:
-- Exercices diverses
-- phases d'attaque
-- services
+Nos entraînements se déroulent dans une ambiance chaleureuse et détendue, tout en restant structurés pour que chacun puisse progresser à son rythme.
+
+Chaque séance commence par un échauffement, suivi de mises en situation techniques et de matchs amicaux pour appliquer ce que l’on a appris.
 
 ![court](images/recep.webp)
 
-Ensuite, nous jouons des matchs amicaux, toujours dans le respect de tous.
+## Nos équipes FSGT : Pour les Passionnés de Compétition
+
+Depuis 2 ans, nous avons formé des équipes FSGT (Fédération Sportive et Gymnique du Travail) masculines et mixtes.
+
+Ces équipes participent aux compétitions dans un esprit de camaraderie, où chaque match est une occasion de progresser tout en s’amusant.
+
+Si vous souhaitez rejoindre une équipe FSGT, nous vous conseillons de venir essayer une à trois séances pour voir si le niveau vous correspond.
+
+Nos membres expérimentés seront là pour vous guider et vous orienter vers l’équipe qui vous conviendrait le mieux.
