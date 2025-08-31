@@ -8,14 +8,13 @@ header_menu: true
 
 Les horaires sont les suivants:
 
-- Lundi : 20h30 – 23h (Loisir, 14 places)
-- Mercredi : 21h – 23h30 (Priorité FSGT, 26 places)
-- Samedi : 16h30 – 19h (Loisir, 26 places)
-- Samedi : 19h – 21h30 (Priorité FSGT, 26 places)
+- Lundi    : 20h30 – 23h   / Petit Gymnase la Castanette (Loisir, 14 places)
+- Mercredi : 20h30 - 23h   / Petit Gymnase la Castanette (Loisir, 14 places)
+- Mercredi : 21h   – 23h   / Grand Gymnase la Castanette (Priorité FSGT, 26 places)
+- Samedi   : 16h30 – 19h   / Grand Gymnase la Castanette (Loisir, 26 places)
+- Samedi   : 19h   – 21h30 / Grand Gymnase la Castanette (Priorité FSGT 1 semaine sur 2, 26 places)
 
-Les séances de loisirs sont ouvertes à tous, tandis que les créneaux FSGT sont plus orientés vers la compétition, avec des entraînements plus poussés et des
-
-matchs.
+Les séances de loisirs sont ouvertes à tous, tandis que les créneaux FSGT sont plus orientés vers la compétition, avec des entraînements plus poussés et des matchs.
 
 ## Tarifs
 

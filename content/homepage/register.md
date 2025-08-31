@@ -8,8 +8,9 @@ header_menu: true
 ---
 
 ## Adhésion
+Pour adhérer au club, suivez ce [lien](https://www.helloasso.com/associations/west-side-volley/adhesions/adhesion-2025-2026-westsidevolley) et remplisser le formulaire avec les documents nécéssaires.
 
-Les adhésions démarreront début septembre. Mais vous pouvez d'ores et déjà réservez vos séances d'essai juste [ici](https://www.helloasso.com/associations/west-side-volley/evenements/seance-d-essai)
+V pouvez commander des séances d'éssai juste [ici](https://www.helloasso.com/associations/west-side-volley/evenements/seance-d-essai)
 
 <!--
 C'est simple ! Téléchargez les documents, remplissez-les et apportez-les lors de votre première séance.
