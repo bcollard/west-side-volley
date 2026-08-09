@@ -23,7 +23,7 @@ Chaque séance commence par un échauffement, suivi de mises en situation techni
 
 ## Nos équipes FSGT : Pour les Passionnés de Compétition
 
-Depuis 2 ans, nous avons formé des équipes FSGT (Fédération Sportive et Gymnique du Travail) masculines et mixtes.
+Depuis 2023, nous avons formé des équipes FSGT (Fédération Sportive et Gymnique du Travail) masculines et mixtes.
 
 Ces équipes participent aux compétitions dans un esprit de camaraderie, où chaque match est une occasion de progresser tout en s’amusant.
 
