@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout repo blog
-        uses: actions/checkout@v3
+        uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3
 
       - name: Checkout repo themes
-        uses: actions/checkout@v3
+        uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3
         with:
           repository: bcollard/west-side-volley-theme
           path: themes/hugo-scroll
@@ -29,13 +29,13 @@ jobs:
 
       # https://github.com/google-github-actions/setup-gcloud
       - name: 'Auth through GCP Workload Identity Federation'
-        uses: 'google-github-actions/auth@v1'
+        uses: 'google-github-actions/auth@3a3c4c57d294ef65efaaee4ff17b22fa88dd3c69' # v1
         with:
           workload_identity_provider: 'projects/681025799424/locations/global/workloadIdentityPools/gitops-pool/providers/gh-provider'
           service_account: 'gha-push-gcs-blog@personal-218506.iam.gserviceaccount.com'
 
       - name: 'Set up Cloud SDK'
-        uses: 'google-github-actions/setup-gcloud@v1'
+        uses: 'google-github-actions/setup-gcloud@e30db14379863a8c79331b04a9969f4c1e225e0b' # v1
         with:
           version: '>= 363.0.0'
 
@@ -43,15 +43,15 @@ jobs:
         run: 'gcloud info'
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d # v2
         with:
-          hugo-version: '0.114.0'
+          hugo-version: '0.169.0'
           extended: true
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2
+          ruby-version: 3.4
 
       - name: install gems
         run: gem install asciidoctor asciidoctor-revealjs rouge asciidoctor-confluence asciidoctor-diagram coderay pygments.rb
