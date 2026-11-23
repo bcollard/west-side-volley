@@ -11,7 +11,7 @@ Ouvert à toutes et à tous dès 15 ans, nous vous invitons à découvrir le pla
 
 Notre objectif : partager des moments de sport et de convivialité, sans pression, mais toujours avec sérieux et bonne humeur !
 
-![volley](images/player.webp)
+![Joueur de volleyball de dos face au filet dans un gymnase](images/player.webp)
 
 ## Nos Séances : Sport, Fun et Partage !
 
@@ -19,7 +19,7 @@ Nos entraînements se déroulent dans une ambiance chaleureuse et détendue, tou
 
 Chaque séance commence par un échauffement, suivi de mises en situation techniques et de matchs amicaux pour appliquer ce que l’on a appris.
 
-![court](images/recep.webp)
+![Joueuses de volleyball en position de réception sur le terrain](images/recep.webp)
 
 ## Nos équipes FSGT : Pour les Passionnés de Compétition
 
